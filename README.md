@@ -55,6 +55,9 @@ Time:    ~8 seconds
 ## 免责声明
 
 本文仅供安全研究和学习交流，请勿用于未授权的系统测试。
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lr1458644438/Dirty-Frag-Analysis&type=Date)](https://star-history.com/#lr1458644438/Dirty-Frag-Analysis&Date)
 
 ---
 
