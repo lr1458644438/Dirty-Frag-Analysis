@@ -55,12 +55,20 @@ Time:    ~8 seconds
 ## 免责声明
 
 本文仅供安全研究和学习交流，请勿用于未授权的系统测试。
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lr1458644438/Dirty-Frag-Analysis&type=Date)](https://star-history.com/#lr1458644438/Dirty-Frag-Analysis&Date)
 
 ---
 
 **Author:** Bomb
 
 **WeChat:** AK7777177（安全研究交流、漏洞分析合作）
+## Star History
+
+<a href="https://star-history.com/#lr1458644438/Dirty-Frag-Analysis&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lr1458644438/Dirty-Frag-Analysis&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lr1458644438/Dirty-Frag-Analysis&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lr1458644438/Dirty-Frag-Analysis&type=Date" />
+  </picture>
+</a>
+
